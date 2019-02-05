@@ -1,3 +1,5 @@
+# Use to calculate the various components of RSA, for reverse engineering challenges
+
 def calc_n():
 	p = input("Enter p: ")
         q = input("Enter q: ")
