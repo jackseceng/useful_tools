@@ -1,11 +1,3 @@
-#This is a 2FA authentication solution for adding security to an SSH server.
-#You will need a textlocal account, with an API key for the SMS service.
-#Details about textlocal can be found here: https://www.textlocal.com.
-#Append the contents of the bashrc.txt file to ~/.bashrc, like this: 'cat basrc.txt >> ~/.bashrc'.
-#Make sure to fill in the <>'s with the correct details for each user that this is used for.
-#Have patience, texts take a while to come through sometimes
-#You can debug by uncommenting the print statements found in the 'gen_and_send()' function.
-
 import urllib.request
 import urllib.parse
 import random
