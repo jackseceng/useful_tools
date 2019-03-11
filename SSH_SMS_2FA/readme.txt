@@ -4,7 +4,7 @@ Setup:
 You will need a textlocal account, with an API key for the SMS service;
 Details about textlocal can be found here: https://www.textlocal.com.
 
-Append the contents of the bashrc.txt file to ~/.bashrc, like this: 'cat basrc.txt >> ~/.bashrc'.
+Append the contents of the bashrc.txt file to ~/.bashrc, like this: 'cat bashrc.txt >> ~/.bashrc'.
 Make sure to fill in the <>'s in the python file with the correct details.
 
 Troubleshooting:
