@@ -1,7 +1,7 @@
-Useful Tool Repository:
+# Useful Tool Repository:
 
 A repository of tools that I have developed or borrowed that I find interesting and useful.
-See below for a brief description of each directory, and the goodes you'll find inside ;)
+See below for a brief description of each directory, and the goodies you'll find inside ;)
 
 RSA_Calculator:
 > A script that helps calculate the various elements of RSA, designed mainly for speeding up challenges that requies this in CTFs.
