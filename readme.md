@@ -13,7 +13,7 @@ SSH_SMS_2FA:
 > A two-factor authentication solution that uses text messages and randomly generated codes to secure SSH servers.
 
 SSH_Email_2FA:
-> A two-factor authentication solution that uses emails and randomly generator codes to secure SSH servers.
+> A two-factor authentication solution that uses emails and randomly generated codes to secure SSH servers.
 
 Thanks for checking out this repository, I explore and add new things frequently, so please check back if you're ever curious.
 
