@@ -15,6 +15,9 @@ SSH_SMS_2FA:
 SSH_Email_2FA:
 > A two-factor authentication solution that uses emails and randomly generated codes to secure SSH servers.
 
+status_script:
+> A simple bash script that can tell you useful status information about your debian based Linux box.
+
 Thanks for checking out this repository, I explore and add new things frequently, so please check back if you're ever curious.
 
 - Developed by Jack: https://jacksec.uk
