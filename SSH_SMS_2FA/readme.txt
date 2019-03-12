@@ -10,3 +10,5 @@ Append the contents of the bashrc.txt file to ~/.bashrc, like this: 'cat bashrc.
 Troubleshooting:
 Have patience, SMS messages can take a while to come through sometimes.
 You can debug by uncommenting the print statements found in the 'gen_and_send()' function.
+
+> Tested on Ubuntu 18.04 LTS

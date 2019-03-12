@@ -1,6 +1,3 @@
-# This contains borrowed code from https://pawelmhm.github.io/python/pyqt/qt/webkit/2015/09/08/browser.html
-# This is designed to be a direct interface to your SOC web interfaces, and not as a fully functioning web browser.
-
 import sys
 from PyQt4.QtWebKit import QWebView
 from PyQt4.QtGui import QApplication
