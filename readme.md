@@ -9,12 +9,6 @@ RSA_Calculator:
 SingleSiteApp:
 > A python based web client that display a pre-determined addresses web page, useful for SOC monitroing software that displays data through web interfaces.
 
-SSH_SMS_2FA:
-> A two-factor authentication solution that uses text messages and randomly generated codes to secure SSH servers.
-
-SSH_Email_2FA:
-> A two-factor authentication solution that uses emails and randomly generated codes to secure SSH servers.
-
 status_script:
 > A simple bash script that can tell you useful status information about your debian based Linux box.
 
